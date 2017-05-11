@@ -1,0 +1,16 @@
+﻿  main.cpp
+d:\대학\onedrive\code\visual studio\김씨만행복한세상\김씨만행복한세상\main.cpp(57): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\대학\onedrive\code\visual studio\김씨만행복한세상\김씨만행복한세상\main.cpp(17): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: 'freopen' 선언을 참조하십시오.
+d:\대학\onedrive\code\visual studio\김씨만행복한세상\김씨만행복한세상\main.cpp(22): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(396): note: 'setbuf' 선언을 참조하십시오.
+d:\대학\onedrive\code\visual studio\김씨만행복한세상\김씨만행복한세상\main.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\대학\onedrive\code\visual studio\김씨만행복한세상\김씨만행복한세상\main.cpp(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\대학\onedrive\code\visual studio\김씨만행복한세상\김씨만행복한세상\main.cpp(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+d:\대학\onedrive\code\visual studio\김씨만행복한세상\김씨만행복한세상\main.cpp(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  김씨만행복한세상.vcxproj -> D:\대학\OneDrive\code\visual studio\김씨만행복한세상\Debug\김씨만행복한세상.exe
+  김씨만행복한세상.vcxproj -> D:\대학\OneDrive\code\visual studio\김씨만행복한세상\Debug\김씨만행복한세상.pdb (Full PDB)
